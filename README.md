@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Sezai, a Fullstack developer with React.js and Node.js.
+## 👋 Hi there! I'm Sezai, a Frontend developer also good at with MERN Projects(MongoDb,JWT Authentication(access and refresh tokens), Express.js, React.js, Node.js).
 
 🚀 I'm passionate about creating engaging and responsive user interfaces to enhance the overall user experience.
 
