@@ -8,8 +8,8 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React.js, Node.js, Next.js, good understanding of authentication
+- **Languages:** HTML, CSS, JavaScript,
+- **Frameworks/Libraries:** React.js, Node.js, Next.js, TypeScript, good understanding of authentication
 - **Tools:** Git, Webpack
 - **Design:** Figma, Adobe XD
 
